@@ -1,0 +1,18 @@
+.grid{
+    height: 630px;
+    width: 630px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid rgb(0, 0, 0) 5px;
+    background-image: url(grass.jpg);
+}
+
+.mole{
+    background-image: url(mole.jpeg);
+    
+}
